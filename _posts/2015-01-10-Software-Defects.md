@@ -3,7 +3,7 @@ layout: post
 title: Software Defects
 ---
 
-### How to Actually Reduce Software Defects
+### How to Actually Reduce Software Defects?
 
 “Prevention is Better than Cure” is best universal thought ,if the software has defects. We can do prevention through Software development life cycle. If there is any fault in software development process, it will cause to generate defects in  the final output. Lot of defects will create during the development process. Defect prevention is important point and it will provide lot of benefits such as reducing reworking effort, reducing maintenance cost and enhancing the productivity.
 
