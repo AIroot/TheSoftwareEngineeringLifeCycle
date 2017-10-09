@@ -67,7 +67,7 @@ it meets the business needs(Wallace & Fujii, 1989). Verification demands all the
 
 ### The similarities and differences between software quality assurances with agile testing versus plan-driven (waterfall) software development projects.
 
-![]({{site.baseurl}}/assets/img/CMMandTMM/image2.png)
+![]({{site.baseurl}}/assets/img/CMMandTMM/image3.png)
 
 
 
