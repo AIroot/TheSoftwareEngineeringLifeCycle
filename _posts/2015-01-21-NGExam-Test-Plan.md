@@ -4,7 +4,7 @@ title: Software Test Plan Outline
 ---
 
 ### NGE Mobile Application Test Plan
-## [{Full Report}](https://github.com/AIroot/TheSoftwareEngineeringLifeCycle/blob/master/assets/pdf/NGExamTestPlan.pdf)
+## [{Full Report}](https://github.com/AIroot/common-assets/blob/master/pdf/NGExamTestPlan.pdf)
 
 ### Anuruddha I Jayasekara Pathiranage
 
