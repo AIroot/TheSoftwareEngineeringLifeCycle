@@ -140,7 +140,7 @@ There is a notification system and progressing bar to indicate future action and
 
 This test plan describes the application requirement, environment, activities, tasks, tools, costs, and schedules for system testing the NGE application.
 
-	### 2.2.1 Test Objectives
+### 2.2.1 Test Objectives
 
 The objectives for application system testing are to validate the following sections:
 
@@ -160,7 +160,7 @@ The test objectives are:
 05. User experience and user interface with different devices. 
 
 
-	### 2.2.2 Test Scope
+### 2.2.2 Test Scope
 
 The project will test the version 1.0 release of the new application and will perform set of application tests including:
 
@@ -170,46 +170,47 @@ Performance Testing – Event saving time, event delete time
 
 Reliability Testing – Accuracy of data entry, completed records
 
-	### 2.3 Related Documents
+### 2.3 Related Documents
 
-		1. User privacy agreement
+1. User privacy agreement
 
-		2. Input data specification
+2. Input data specification
 
 ### 3.0 Items To Be Tested
 
-	1. Application user’s guide line modules
+1. Application user’s guide line modules
 
-	2. Event creation modules
+2. Event creation modules
 
-	3. Real time notification modules
+3. Real time notification modules
 
-	4. Completed event handling modules
+4. Completed event handling modules
 
 
 ### 4.0 Features
 
-	### 4.1 Features To Be Tested
-		### Create and organize exam and course event
+### 4.1 Features To Be Tested
+		
+### Create and organize exam and course event
 			
-			1. User guide line
+1. User guide line
 
-			2. Create new event
+2. Create new event
 
-			3. Update event
+3. Update event
 
-			4. Delete event
+4. Delete event
 
 
-	### Notification based user activity
+### Notification based user activity
 
-			1. Set the Assignment due date 
+1. Set the Assignment due date 
 
-			2. Set the course due date
+2. Set the course due date
 
-			3. Set the reminder for 50%, 75%, 95% competence 
+3. Set the reminder for 50%, 75%, 95% competence 
 
-	### 4.2 Features Not To Be Tested
+### 4.2 Features Not To Be Tested
 
 The Android operating system’s SQLITE database is not tested under this plan. This application run on Android API 15-24. This API compatibility in not tested in this plan. 
 
@@ -238,9 +239,9 @@ There is no automated test. The status of the test event will be reported and di
 
 The following tools will be used to do test easier. Any tester has good training to use the tools. The tools are the following:
 
-	* Android Emulator
+* Android Emulator
 
-	* Git version control system
+* Git version control system
 
 ### 5.6 Stop-Test Criteria
 
